@@ -2,9 +2,8 @@
   "language.name": "Francais",
   "language.region": "FR",
   "language.code": "fr_fr",
-  "item.minecraft.bread": "Pâtes Stalini"
+  "item.minecraft.bread": "Pâtes Stalini",
   "entity.minecraft.potion": "Vodka",
-  "item.minecraft.bread": "Stalini Pasta",
   "item.minecraft.potion": "Vodka",
   "item.minecraft.splash_potion": "Molotov",
   "item.minecraft.lingering_potion": "Fumigene",
@@ -79,7 +78,7 @@
   "item.minecraft.wooden_hoe": "Faucille",
   "item.minecraft.golden_carrot": "Carotte d'Auré",
   "item.minecraft.music_disc_wait.desc": "Sergueï Mikhalkov - Hymne de l'URSS",
-  "item.minecraft.music_disc_13.desc": "Eugène Pottier - L'Internationale"
+  "item.minecraft.music_disc_13.desc": "Eugène Pottier - L'Internationale",
   "item.minecraft.arrow": "Balle",
   "item.minecraft.spectral_arrow": "Balle Spectrale",
   "item.minecraft.tipped_arrow": "Balle a Effet",
