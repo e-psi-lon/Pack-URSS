@@ -1,0 +1,11 @@
+{
+	"parent": "item/bow",
+	"textures": {
+		"layer0": "item/bow_pulling_2"
+	},
+	"display": {
+		"gui": {
+			"rotation": [0, 0, 45]
+		}
+	}
+}
