@@ -1,6 +1,10 @@
 {
-  "pack": {
-    "pack_format": 12,
-    "description": "§cVive l'URSS"
-  }
+	"pack": {
+		"pack_format": 12,
+		"description": {
+				"text": "Vive l'URSS",
+				"color": "light_red"
+	  }
+		"author": "e_psi_lon"
+	}
 }
